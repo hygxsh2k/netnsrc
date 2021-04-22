@@ -1,0 +1,22 @@
+[
+  {
+    "ifname": "A-veth0",
+    "link_netnsid": 1,
+    "addr_info": [
+      {
+        "local": "192.168.100.10",
+        "prefixlen": 24
+      }
+    ]
+  },
+  {
+    "ifname": "B-veth0",
+    "link_netnsid": 0,
+    "addr_info": [
+      {
+        "local": "192.168.100.20",
+        "prefixlen": 24
+      }
+    ]
+  }
+]
